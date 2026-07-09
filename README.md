@@ -46,3 +46,57 @@ Update Kubernetes manifests
 
 Deploy to Amazon EKS
 
+
+
+**DevOps Workflow**
+
+
+
+Developer
+
+&#x20;     ↓
+
+Git Push
+
+&#x20;     ↓
+
+GitHub
+
+&#x20;     ↓
+
+GitHub Actions
+
+&#x20;     ↓
+
+Build Application
+
+&#x20;     ↓
+
+Run Tests
+
+&#x20;     ↓
+
+Docker Build
+
+&#x20;     ↓
+
+Push to Amazon ECR
+
+&#x20;     ↓
+
+Deploy to Amazon EKS
+
+&#x20;     ↓
+
+Rolling Update
+
+&#x20;     ↓
+
+Health Check
+
+&#x20;     ↓
+
+Production
+
+
+
