@@ -65,6 +65,8 @@ AWS IAM – Manages user permissions and access
 AWS CloudWatch – Monitors server health and application performance
 
 AWS Elastic Load Balancer – Distributes traffic between servers
+
+
 **DevOps Workflow**
 
 
