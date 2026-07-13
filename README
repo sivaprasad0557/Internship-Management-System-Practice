@@ -1,0 +1,16 @@
+What is Git?
+
+Answer:
+Git is a Distributed Version Control System (DVCS) used to track changes in source code. It allows multiple developers to work on the same project and keeps a history of all changes.
+
+2. What is GitHub?
+
+Answer:
+GitHub is a cloud-based platform that hosts Git repositories. It provides collaboration features such as Pull Requests, Issues, code reviews, and GitHub Actions.
+
+3. What is the difference between Git and GitHub?
+Git	GitHub
+Version Control System	Repository Hosting Platform
+Works locally	Works online
+Tracks changes	Stores and shares repositories
+Command-line tool	Web-based platform
